@@ -27,6 +27,6 @@ The primary objectives of this project were as follows:
 
 ## Domain Knowledge
 
-I delved deep into understanding the dynamics of sales and finance, making me well-equipped to provide data-driven insights to support decision-making.
+I devloped and jump dive into understanding the dynamics of sales and finance, making me well-equipped to provide data-driven insights to support decision-making.
 
 
